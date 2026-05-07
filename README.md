@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/Backend-C%23%20%2F%20Node%20%2F%20JS-f7dce5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estilo-Minimalista-fadfd7?style=for-the-badge" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaListh
-&layout=pie&theme=rose_pine)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaListh&layout=pie&bg_color=F2E0D2&title_color=9E182B&text_color=F2AFBC&icon_color=F9CBD6)
+
 
 
 </div>
