@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/Backend-C%23%20%2F%20Node%20%2F%20JS-f7dce5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estilo-Minimalista-fadfd7?style=for-the-badge" />
 
+</div>
+
+<div>
+
 #### Bases de Datos
 ![Supabase](https://img.shields.io/badge/Supabase-F9CBD6?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-F2AFBC?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,6 +47,7 @@
 ![Lua](https://img.shields.io/badge/Lua-F2AFBC?style=for-the-badge&logo=lua&logoColor=white)
   
 </div>
+
 
 ---
 
