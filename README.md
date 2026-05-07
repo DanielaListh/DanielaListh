@@ -11,10 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaListh&layout=pie)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaListh&layout=compact)
-
-
-
 
 </div>
 
