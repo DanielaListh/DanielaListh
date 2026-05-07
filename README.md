@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1328573323986341972/1502057943359688836/Copilot_20260507_172019.png?ex=69fe53f8&is=69fd0278&hm=cb77777cfa258739673d631434eba476289dcef70955b5ef1860d9889bcb0050&" alt="Pixel art banner" />
+<img src="[https://cdn.discordapp.com/attachments/1328573323986341972/1502057943359688836/Copilot_20260507_172019.png?ex=69fe53f8&is=69fd0278&hm=cb77777cfa258739673d631434eba476289dcef70955b5ef1860d9889bcb0050&](https://cdn.discordapp.com/attachments/1328573323986341972/1502058540829905119/Copilot_20260507_172019.png?ex=69fe5487&is=69fd0307&hm=4820df7f3650ca2dc6ba01966ea91dabc33c349a7e5f6f92593bbfcfcfd8f39a&)" alt="Pixel art banner" />
 <img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
   
 # 🌸 **Daniela Berrios** 🌸
