@@ -1,7 +1,6 @@
-<img src="This user is an angel.png"></img>
-<img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" ></img>
 <div align="center">
-
+<img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
+  
 # 🌸 **Daniela Berrios** 🌸
 ### Desarrolladora Frontend|Backend · Creativa con enfoque técnico · Amante del diseño minimalista
 
@@ -45,9 +44,10 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 
 ---
 
-<div align="center">
-  
-✨ *Gracias por visitar mi perfil* ✨  
+<div align="center">  
+✨ *Gracias por visitar mi perfil* ✨ 
+
+<img src="This user is an angel.png" />
 
 </div>
 
