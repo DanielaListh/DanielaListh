@@ -3,7 +3,7 @@
 <div align="center">
 
 # 🌸 **Daniela Berrios** 🌸
-### Desarrolladora Frontend · Creativa · Amante del diseño minimalista
+### Desarrolladora Frontend|Backend · Creativa con enfoque técnico · Amante del diseño minimalista
 
 <img src="https://img.shields.io/badge/Frontend-Vue%20%2F%20Nuxt-f7dce5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estilo-Minimalista-fadfd7?style=for-the-badge" />
@@ -30,7 +30,8 @@ Me encanta combinar **Vue / Nuxt**, **Tailwind** y **diseño minimalista** para 
 ---
 
 ## 📚 Proyectos destacados
-### *Agape Web*
+### **Agape Web**
+El proyecto se centra en una clínica que ofrece consultas médicas especializadas en diversas áreas, con un fuerte énfasis en la promoción de la salud holística y el bienestar general de sus pacientes.
 
 ### **Lector Bíblico**
 Una plataforma minimalista para la lectura de la Santa Biblia, con una estética inspirada en manuscritos antiguos.
@@ -38,7 +39,7 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 ---
 
 ## 🌸 Contacto
-- **LinkedIn:** linkedin.com/in/daniela-berrios/
+- **LinkedIn:** https://linkedin.com/in/daniela-berrios/
 - **GitHub:** https://github.com/DanielaListh  
 - **Facebook:** https://www.facebook.com/Dani.listh  
 
