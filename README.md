@@ -15,7 +15,7 @@
 ## 🌿 Sobre mí
 Soy Técnico en Desarrollo de Software, ultimamente enfocada en el area de frontend, me gusta crear interfaces limpias, elegantes y con una estética cálida.  
 
-Me encanta combinar **Vue / Nuxt**, **Tailwind** y **diseño minimalista** para construir experiencias visuales armoniosas.
+Hoy combino Vue / Nuxt, Tailwind y un estilo minimalista para seguir expandiendo mi dominio de frameworks y diseñar experiencias visuales limpias y armoniosas.
 
 ---
 
@@ -28,7 +28,8 @@ Me encanta combinar **Vue / Nuxt**, **Tailwind** y **diseño minimalista** para 
 
 ---
 
-## 📚 Proyectos destacados
+## 📜 Proyectos destacados
+
 ### **Agape Web**
 El proyecto se centra en una clínica que ofrece consultas médicas especializadas en diversas áreas, con un fuerte énfasis en la promoción de la salud holística y el bienestar general de sus pacientes.
 
@@ -37,7 +38,7 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 
 ---
 
-## 🌸 Contacto
+## ☎️ Contacto
 - **LinkedIn:** https://linkedin.com/in/daniela-berrios/
 - **GitHub:** https://github.com/DanielaListh  
 - **Facebook:** https://www.facebook.com/Dani.listh  
@@ -46,9 +47,6 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 
 <div align="center">  
 ✨ *Gracias por visitar mi perfil* ✨ 
-
-<img src="This user is an angel.png" />
-
 </div>
-
+<img src="This user is an angel.png" />
 
