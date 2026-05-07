@@ -1,10 +1,8 @@
 <img src="This user is an angel.png"></img>
-
-<h1 style="display: inline-block; margin: 0;">Welcome to GitHub of Daniela Berrios</h1> 
 <img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" ></img>
 <div align="center">
 
-# 🌸 **Daniela Berrios**
+# 🌸 **Daniela Berrios** 🌸
 ### Desarrolladora Frontend · Creativa · Amante del diseño minimalista
 
 <img src="https://img.shields.io/badge/Frontend-Vue%20%2F%20Nuxt-f7dce5?style=for-the-badge" />
@@ -16,30 +14,33 @@
 ---
 
 ## 🌿 Sobre mí
-Soy una desarrolladora frontend enfocada en crear interfaces limpias, elegantes y con una estética cálida.  
+Soy Técnico en Desarrollo de Software, ultimamente enfocada en el area de frontend, me gusta crear interfaces limpias, elegantes y con una estética cálida.  
+
 Me encanta combinar **Vue / Nuxt**, **Tailwind** y **diseño minimalista** para construir experiencias visuales armoniosas.
 
 ---
 
-## ✨ Tecnologías que uso
+## ✨ Tecnologías que uso recientemente
 - **Vue 3 / Nuxt 3**
 - **Tailwind CSS**
 - **Supabase**
-- **Figma**
-- **JavaScript / TypeScript**
+- **Figma / Canva**
+- **JavaScript, Node.js, Express**
 
 ---
 
-## 📚 Proyecto destacado
+## 📚 Proyectos destacados
+### *Agape Web*
+
 ### **Lector Bíblico**
 Una plataforma minimalista para la lectura de la Santa Biblia, con una estética inspirada en manuscritos antiguos.
 
 ---
 
 ## 🌸 Contacto
-- **LinkedIn:** https://www.linkedin.com/in/daniela-berrios  
+- **LinkedIn:** linkedin.com/in/daniela-berrios/
 - **GitHub:** https://github.com/DanielaListh  
-- **Instagram:** @liseth.dbh  
+- **Facebook:** https://www.facebook.com/Dani.listh  
 
 ---
 
