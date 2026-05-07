@@ -6,9 +6,8 @@
 ### Desarrolladora Frontend|Backend · Creativa con enfoque técnico · Amante del diseño minimalista
 
 <img src="https://img.shields.io/badge/Frontend-Vue%20%2F%20Nuxt-f7dce5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-C%23%20%2F%20Node%20%2F%20JS-d8a7b1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-C%23%20%2F%20Node%20%2F%20JS-f7dce5?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estilo-Minimalista-fadfd7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Paleta-Rosa%20%2F%20Crema-f7dce5?style=for-the-badge" />
 
 </div>
 
