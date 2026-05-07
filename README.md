@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://cdn.discordapp.com/attachments/1328573323986341972/1502057943359688836/Copilot_20260507_172019.png?ex=69fe53f8&is=69fd0278&hm=cb77777cfa258739673d631434eba476289dcef70955b5ef1860d9889bcb0050&" alt="Pixel art banner" />
 <img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
   
 # 🌸 **Daniela Berrios** 🌸
