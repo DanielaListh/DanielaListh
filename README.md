@@ -13,7 +13,7 @@
 
 <div>
 
-#### Bases de Datos
+#### Mi stack actualmente:
 ![Supabase](https://img.shields.io/badge/Supabase-F9CBD6?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-F2AFBC?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F2E0D2?style=for-the-badge&logo=mysql&logoColor=white)
@@ -76,8 +76,9 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 
 ---
 
-<div align="center">  
+<div align="center" margin="10px">  
 ✨ *Gracias por visitar mi perfil* ✨ 
 </div>
+
 <img src="This user is an angel.png" />
 
