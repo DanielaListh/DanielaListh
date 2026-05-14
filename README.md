@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1328573323986341972/1502058540829905119/Copilot_20260507_172019.png?ex=69fe5487&is=69fd0307&hm=4820df7f3650ca2dc6ba01966ea91dabc33c349a7e5f6f92593bbfcfcfd8f39a&" alt="Pixel art banner" />
+<img width="1536" height="250" alt="bannerGithub" src="https://github.com/user-attachments/assets/0c15a24a-80a0-4b66-81a9-58f0c8de2fb9" />
 <img src="Emoji Sticker by BREAD TREE (1).gif" style="width: 70px;" />
   
 # 🌸 **Daniela Berrios** 🌸
@@ -70,8 +70,7 @@ Una plataforma minimalista para la lectura de la Santa Biblia, con una estética
 
 ## 📩 Contacto
 - **LinkedIn:** https://linkedin.com/in/daniela-berrios/
-- **Correo:** danielabh1997@gmail.com
-- **GitHub:** https://github.com/DanielaListh  
+- **Correo:** danielabh1997@gmail.com 
 - **Facebook:** https://www.facebook.com/Dani.listh  
 
 ---
